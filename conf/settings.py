@@ -17,8 +17,8 @@ HOST_INFO = {
 
 
 # mysql数据库的连接信息
-MYSQL_HOST = '192.168.2.78'
+MYSQL_HOST = '192.168.2.178'
 MYSQL_PORT = 3306
 MYSQL_DB_USER = 'root'
-MYSQL_DB_PASSWORD = 'vagrant'
-MYSQL_DB_NAME = 'covid'
+MYSQL_DB_PASSWORD = 'xxxx'
+MYSQL_DB_NAME = 'xxxxdb'
