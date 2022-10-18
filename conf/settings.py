@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2020/1/1 22:59
-# @Blog    : http://www.cnblogs.com/uncleyong
-# @Gitee   : https://gitee.com/uncleyong
-# @QQ交流群 : 652122175
-# @公众号   : 全栈测试笔记
-
 import os
 
 
