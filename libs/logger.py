@@ -34,6 +34,6 @@ class Logger(object):
 logger = Logger()
 
 if __name__ == '__main__':
-    logger.logger.debug('http://www.cnblogs.com/uncleyong/')
-    logger.logger.info('http://www.cnblogs.com/uncleyong/')
+    logger.logger.debug('xxxxxxxxx')
+    logger.logger.info('xxxxxxxxxx')
 
